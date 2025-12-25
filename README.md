@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Deksi</h1>
-<h3 align="center">Flutter Developer | Software Engineering Student</h3>
+<h3 align="center">Flutter Developer | Information Technology Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
