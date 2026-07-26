@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=2E86C1&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Deksi&color=2E86C1&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/🎓-Bahir%20Dar%20University-1B4F72?style=flat-square" />
 </p>
 
